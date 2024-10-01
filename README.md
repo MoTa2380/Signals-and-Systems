@@ -18,7 +18,7 @@
 6. [**Discrete Fourier Transform**](https://github.com/MoTa2380/Signals-and-Systems-Course/blob/main/slides/Signal_System_Chap6_14002.pdf)
    This chapter introduces the Discrete Fourier Transform (DFT) and its properties.
 
-7. [**Z-Transform**(https://github.com/MoTa2380/Signals-and-Systems-Course/blob/main/slides/Signal_System_Chap7_14002.pdf)
+7. [**Z-Transform**](https://github.com/MoTa2380/Signals-and-Systems-Course/blob/main/slides/Signal_System_Chap7_14002.pdf)
    The Z-Transform is introduced as a generalization of the Discrete Fourier Transform, along with its properties.
 
 8. [**Sampling**](https://github.com/MoTa2380/Signals-and-Systems-Course/blob/main/slides/Signal_System_Chap8_14002.pdf)
